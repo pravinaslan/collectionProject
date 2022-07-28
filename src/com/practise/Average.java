@@ -16,6 +16,9 @@ public class Average {
 			
 		}
 		System.out.println(sum);
+		System.out.println(sum);
+		System.out.println(sum);
+		System.out.println(sum);
 		double average=sum/a.length;
 		System.out.println(average);
 		
